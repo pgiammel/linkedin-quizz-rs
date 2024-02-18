@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/quizz_001_20240203/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/quizz_002_20240204/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/quizz_003_20240210/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/quizz_004_20240211/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/quizz_005_20240217/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/quizz_006_20240218/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
